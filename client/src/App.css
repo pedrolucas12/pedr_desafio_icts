@@ -1,0 +1,84 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  font-family: 'Courier New';
+  font-size: 14px;
+}
+
+.produtos {
+  display: flex;
+  width: 100%;
+  align-items: center;
+  flex-direction: column;
+}
+
+.showList {
+  width: 70%;
+  padding: 10px;
+  border: 1px solid;
+  margin-bottom: 15px;
+  font-size: 18px;
+  background-color: #cece;
+}
+
+.btn-green {
+  background-color: green;
+  color: white;
+  border: 0;
+  font-size: 15px;
+}
+
+.btn-info-small {
+  background-color: #006bffd4;
+  color: white;
+  border: 0;
+  font-size: 15px;
+}
+
+.btn-red {
+  background-color: #ff0000d4;
+  color: white;
+  border: 0;
+  font-size: 15px;
+}
+
+.btn-info {
+  background-color: #006bffd4;
+  color: white;
+  border: 0;
+  height: 30px;
+  font-size: 15px;
+  width: 250px;
+}
+
+button{
+  width: 100px;
+  height: 30px;
+  margin-top: 35px;
+  margin: 20px;
+}
+
+.information input{
+  width: 400px;
+  height: 15px;
+  margin: 5px;
+}
+
+.information {
+  margin-left: 15px;
+}
+
+.margin01 {
+  margin-right: 40px;
+}
+
+.margin02 {
+  margin-right: 32px;
+}
+
+.information button:hover{
+  cursor:pointer;
+}
+
+
